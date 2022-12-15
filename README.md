@@ -2,7 +2,7 @@
 
 
 Using Excel,Tableau and PowerBi
-one dataset 
+/n \n one dataset 
 three interactive dashboards
 with the three most powerful BI tools 
 
@@ -15,3 +15,5 @@ with the three most powerful BI tools
 
 ![image](https://user-images.githubusercontent.com/109144849/207851859-6a18e45d-4844-47b9-929f-1d0cd6a2388a.png)
 
+
+![image](https://user-images.githubusercontent.com/109144849/207852092-c2119d46-7f12-432a-9b3d-0cc0e3d4fa99.png)
